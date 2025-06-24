@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Meeting with Dev Team",
+    "date": "2025-06-25",
+    "time": "10:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Lunch with Client",
+    "date": "2025-06-25",
+    "time": "13:00",
+    "duration": "1h"
+  },
+  {
+    "title": "Product Demo",
+    "date": "2025-06-26",
+    "time": "11:00",
+    "duration": "2h"
+  }
+]
